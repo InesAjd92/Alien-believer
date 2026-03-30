@@ -1,0 +1,484 @@
+---
+title: 
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# <br>
+
+# Theories du Complot Et Aliens: qui sont les  croyants caches parmi nous ?
+
+```{=html}
+  <b> <style>
+  h1{
+    font-size: 40px;
+    color: #c3c728;
+    font-family: "Alien robot", sans-serif; /* Utilisez le nom exact de la police */
+    text-align: center;
+  }
+  body {
+    background-color: #000000;
+  }
+  toc_float {
+    background-color: #684e32;
+  }
+</style> <b>
+```
+```{=html}
+<style type="text/css">
+#TOC {
+  border-color: #c3c728
+  
+  ; 
+}
+
+</style>
+```
+
+
+<html>
+<head>
+  <audio autoplay loop>
+    <source src="Mark Snow - Materia Primoris The X-Files Theme (Main Title) (Official Audio).mp3" type="audio/mpeg">
+    Votre navigateur ne supporte pas l'élément audio.
+  </audio>
+</head>
+<body>
+
+
+::: {style="display: flex; justify-content: center;"}
+<img src="GMKQ.gif" width="1000"/>
+:::
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+## <b>Introduction<b> {style="color : #c3c728; font-family : '13_misa'"}
+
+##### L'humanité a toujours été fascinée par l'idée d'une intelligence **extraterrestre** ! Les **OVNI** et les théories du complot qui les accompagnent nous fascinent depuis des lustres. Et, avec l'ère numérique, ces histoires voyagent à la vitesse de la lumière sur Internet, alimentant les croyances les plus **farfelues**. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### On en veut pour preuve, le 30 avril 2023, lorsqu'un habitant de **Las Vegas** a contacté la police car il aurait repéré *«un objet 100% non humain»* sur sa propriété. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Une dizaine de minutes plus tard, la police a reçu un autre appel, d'un second homme qui habite à une centaine de kilomètres de la mythique **Zone 51**. Il affirmait avoir vu un objet tomber du ciel et qu'il y avait deux entités inconnues dans son jardin. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### L'histoire aurait pu prendre fin à ce moment-là. Cependant, simultanément, la caméra embarquée d'un policier a capturé un objet non identifié fendre les cieux. Selon l'*American Meteor Society*, cette boule de feu a été observée depuis l'Utah jusqu'en Californie. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Dans un autre enregistrement, on entend un policier confier à son collègue : *"Je suis extrêmement anxieux en ce moment. J'ai des papillons dans l'estomac. Frère, Evelyn a vu une étoile filante, et maintenant il y a des individus affirmant avoir des extraterrestres dans leur jardin."* {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+
+
+<div style="text-align:center;">
+<video controls width="480" height="270">
+  <source src="Las Vegas police spot suspected UFO — and residents claim to see aliens.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la lecture de vidéos au format MP4.
+</video>
+</div>
+
+
+
+###### [Source vidéo ]{.underline} : <https://www.youtube.com/watch?v=6khhDnQl5a8>" {style="color : #c3c728; font-family : Helvetica; text-align: justify"}
+
+###### [Source information ]{.underline} : <https://www.metrotime.be/fr/wtf/un-policier-filme-un-ovni-avec-sa-body-cam-video>" {style="color : #c3c728; font-family : Helvetica; text-align: justify"}
+
+------------------------------------------------------------------------
+
+##### C'est dans ce contexte que l'on centre notre enquête visant à comprendre quel type de personne est encline à adhérer à ces théories. ***En 2023, qui sont les personnes qui croit aux Aliens ? Comment un fait divers a pu être cru par autant de personne ?*** {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+## <b>Demographie<b> {style="color : #c3c728; font-family : '13_misa'"}
+
+##### Bienvenue dans le coin **démographique** de notre quête pour percer les mystères des croyances extraterrestres ! Si on veut vraiment comprendre qui sont ces férus de théories du complot alien, il est temps de se pencher sur leurs caractéristiques démographiques. Allons plonger dans nos données pour découvrir les profils les plus ***"spatiaux"***. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### On veut savoir qui, où, quoi et comment ! Quel est le *genre* de ces amateurs de conspirations intergalactiques ? Sont-ils *citadins* ou préfèrent-ils les *grands espaces* ? Ont-ils fait le tour des bancs de l'*école* ou non ? {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+### <b>Genre<b> {style="color : #c3c728; font-family : 'SNEAKERS'"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+::: {style="display: flex; justify-content: center;"}
+<img src="10.png" width="400"/>
+:::
+
+::: {style="display: flex; justify-content: center;"}
+<img src="11.png" width="400"/>
+:::
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### **Genre et Croyances Alien : La Connexion Extraterrestre**{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### Si vous vous identifiez comme "Femme"  en termes de genre, vous êtes sur la même longueur d'onde que les extraterrestres, car votre "Score Alien" est en mode ***boost***. Le graphique ne ment pas et montre une corrélation entre le Score Alien et les personnes qui s’identifie comme «Femme».{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### D'un autre côté, si vous vous identifiez comme "Homme", eh bien, il semblerait que les ovnis et les théories alien ne vous excitent pas beaucoup. Le "Score Alien" ne semble pas danser la même danse pour vous.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Pour résumer, ceux qui sont dans le délire des théories du complot alien ont plus tendance à s'identifier comme "Femme". {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+### <b>Zone d'habitation<b> {style="color : #c3c728; font-family : 'SNEAKERS'"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+::: {style="display: flex; justify-content: center;"}
+<img src="7.png" width="400"/>
+:::
+
+::: {style="display: flex; justify-content: center;"}
+<img src="8.png" width="400"/>
+:::
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### **Le Score Alien et le Choix de Quartier : ça matche !**{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### Si vous êtes du genre à traquer les soucoupes volantes ou à penser que les voisins viennent d'une autre planète, il se peut que vous préfériez vivre  en ville. C'est ce que nous montrent ces graphiques ! {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### En gros, le "Score Alien" a tendance être corrélé avec les personnes qui habite en ville. (Ils sont là à scruter les étoiles et à attendre le prochain atterrissage d'ovni).{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Par contre, si vous habitez en banlieue, les aliens n'ont pas trop d'impact sur votre quotidien. Puisqu'il y des signes clairs d'une corrélation négative avec le "Score Alien". Mais, pas de panique, rien à signaler si vous habitez en campagne !{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Les amateurs de théories alien ont tendance à aimer la frénésie de la ville. Les banlieues ? C'est comme si elles étaient dans une autre galaxie pour eux. C'est un peu comme si l'appel des étoiles les guidait vers des coins plus... galactiques. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+
+
+### <b>Éducation<b> {style="color : #c3c728; font-family : 'SNEAKERS'"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+::: {style="display: flex; justify-content: center;"}
+<img src="3.png" width="400"/>
+:::
+
+::: {style="display: flex; justify-content: center;"}
+<img src="4.png" width="400"/>
+:::
+
+
+##### Nous avons fait chauffer les moteurs de l'analyse MCA (Multiple Correspondence Analysis), et voici ce qu'on a trouvé de :{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### **L'Éducation et les Aliens : ça se joue !**{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### Les universitaires, ce sont des "durs à cuire". Ils forment le "Cluster 1" et n'ont pas trop la foi envers les théories du complot alien. Leurs "Scores Alien" sont bas.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Ensuite, il y a le "Cluster 2" : les amateurs de théories alien, ceux qui n'ont pas trop poussé les études. Leurs "Scores Alien" ? ***To the moon*** !{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Le "Cluster 3", c'est pour les érudits, ceux qui ont des diplômes en pagaille. Ils ne sont pas trop branchés aliens, et leurs "Scores Alien" restent sous contrôle.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### L'éducation joue bien un rôle dans cette histoire. Si vous avez fait des études universitaires, vous aurez plus de chance d'être du genre ***"E.T. who ?"***. Par contre, si vous vous êtes arrêté au lycée, les aliens ont peut-être plus de chance de vous captiver. C'est un peu comme si l'éducation était un bouclier anti-alien ! {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+::: {style="display: flex; justify-content: center;"}
+<img src="5.png" width="400"/>
+:::
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"} 
+
+##### L'analyse HCPC (Hierarchical Clustering on Principal Components) a ajouté une nouvelle couche de style à notre exploration : {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### **Éducation et Alien Clusters : Un Duo Imbattable** {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### L'éducation est la reine de cette enquête. Elle est super connectée à la formation des clusters, et les tests du chi carré nous disent que c'est du solide.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### Les clusters se dessinent autour du niveau d'éducation. Si vous avez un diplôme universitaire, vous êtes dans le "Cluster 1", avec une faible tendance à croire aux théories alien.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Le "Cluster 2", c'est là où atterrissent les personnes moins éduquées, et c'est là qu'on trouve les scores alien qui décollent. Ils sont vraiment dans le délire extraterrestre.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Les diplômés d'études supérieures ? Ils forment le "Cluster 3". Ils sont dans la zone intermédiaire pour les scores alien. Ils ont une attitude plutôt équilibrée.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Donc, l'éducation est bien la maîtresse du jeu, et les scores alien dans le "Cluster 2" sont comme des feux d'artifice. En fin de compte, ça suggère que plus on se plonge dans l'éducation, moins on a tendance à voir des ovnis à chaque coin de rue.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+### <b>Religion<b> {style="color : #c3c728; font-family : 'SNEAKERS'"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+::: {style="display: flex; justify-content: center;"}
+<img src="6.png" width="400"/>
+:::
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+
+##### Ce test nous permettra de mettre  les croyances en théories alien à l'épreuve de la religiosité. Voyons quels indices il nous offre : {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### **Religion et Croyances Alien : Sacrée Affaire !** {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### Le T-test de Welch est formel : il y a un écart entre les croyances en théories du complot alien des religieux et des non religieux. La plus-value (p = 0,003357) bassse est un signal fort que ça compte.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Pour être clair, la moyenne des scores de croyance en théories du complot alien est de -0,7846478 pour les religieux, alors qu'elle reste à -0,1562328 pour les non religieux.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### L'intervalle de confiance à 95% ? Il nous dit que nous pouvons être sacrément confiants que la vraie différence entre les deux groupes se trouve entre ces chiffres. Ce qui veut dire que la différence est bien réelle.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### En résumé, les résultats de ce test secouent les étoiles et suggèrent que les religieux ont une nette prédisposition à croire aux théories du complot alien.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+## <b>Personnalite<b> {style="color : #c3c728; font-family : '13_misa'"}
+
+##### On vous comprend, ces croyances sur les aliens sont tout sauf ennuyeuses, et maintenant, il est temps de découvrir si elles sont associées à des **traits de personnalité** particuliers. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Les questions qui nous brûlent les lèvres sont : est-ce que certaines **personnalités** sont plus enclines à croire aux visiteurs interstellaires ? Et est-ce que le fait d'être **droitier** ou **gaucher** joue un rôle dans ces croyances cosmiques ? {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Allons dénicher des indices, et qui sait, peut-être que nous découvrirons que les amateurs d'extraterrestres ont des personnalités aussi **colorées** que des **nébuleuses**, ou que les gauchers sont plus enclins à croire en des théories complotistes. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+### <b>Type<b> {style="color : #c3c728; font-family : 'SNEAKERS'"}
+
+#### ................................................................. ....................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+::: {style="display: flex; justify-content: center;"}
+<img src="1.png" width="400"/>
+:::
+
+##### Voici notre découverte  avec ce graphique : il révèle une relation intéressante entre notre "Score Alien" (un indice qui mesure à quel point les personnes croient aux théories alien) et la manière dont ils se perçoivent.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Si vous êtes du genre à vous décrire comme un esprit **libre**, **désorganisé**, et que la prudence n'est pas votre truc, il y a de fortes chances que vous ayez un Score Alien élevé ! Puisqu'on voit bien que notre Score Alien est **corrélé** avec le type de personnalité "Disorganized, careless". {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Vous êtes là, à flairer les signes d'une invasion extraterrestre sans vous soucier des petits détails du quotidien....{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Maintenant, du côté opposé de la galaxie, on trouve les âmes **calmes**, **réservées**, qui préfèrent garder le silence. Eh bien, ces personnes-là, ils n'ont pas vraiment le virus alien. En fait, ils ont une **corrélation négative** avec le Score Alien, ce qui signifie qu'ils gardent les pieds sur Terre et laissent les aliens à d'autres.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### En bref, si vous vous reconnaissez dans le **"désorganisé"** et **"careless"**, il est fort probable que vous soyez du genre à penser que les aliens sont partout. Mais si vous êtes plus du genre **"réservé"** et **"silencieux"**, vous avez tendance à préférer la réalité à la science-fiction cosmique. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ....................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+::: {style="display: flex; justify-content: center;"}
+<img src="2.png" width="400"/>
+:::
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### Regardons de plus près les groupes que nous avons pu identifiés. Nous avons fait un peu de tri et voici ce que nous avons {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### **Groupe 1 - Les "Névrosés"**:{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Anxieux, ils sont toujours sur les nerfs.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+##### Désorganisés, le concept de rangement les dépasse.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+##### Plutôt réservés, ils gardent les choses pour eux.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+##### Critiques, prêts pour une bonne dispute.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+##### Plutôt conventionnels, ils sont pas trop du genre à casser la routine.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Ce groupe, c'est un vrai "sac de nerfs". Les "Névrosés" sont en général anxieux, inquiets, et ils ont du mal à garder un semblant d'ordre dans leur vie. En plus, ils ont tendance à être réservés et critiques d'eux même, avec une petite pointe de conformisme. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### **Groupe 2 - Les "Consciencieux"**:{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Tranquilles, ils ont l'émotion sous contrôle.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+##### Fiables, ils tiennent parole.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+##### Zen et Réservé.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+##### Conformistes, plutôt classiques dans leurs idées.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Ici, c'est tout le contraire des "Névrosés". Les "Consciencieux" sont calmes, stables émotionnellement, et on peut compter sur eux. Ils aiment les habitudes bien rangées et les idées classiques. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### **Groupe 3 - Les "Ouverts"**:{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Super extravertis, le life of the party.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+##### Ouverts à toutes les expériences, tout leur va.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+##### Hyper sympas, ils répandent de la chaleur.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Ici, nous avons le groupe des "Ouverts". Ils sont le contraire des deux autres groupes. Ils sont les plus extravertis, aiment les nouvelles expériences et sont super sympas. Les aliens ? Ils seraient peut-être ravis de les rencontrer !{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Voilà, Nous avons pu identifié trois types de profils qui croient aux théories du complot alien ! Un autre indice en poche. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+
+#### ................................................................. ....................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+### <b>Droitier ou Gaucher ?<b> {style="color : #c3c728; font-family : 'SNEAKERS'"}
+
+#### ................................................................. ....................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+::: {style="display: flex; justify-content: center;"}
+<img src="12.png" width="400"/>
+:::
+
+::: {style="display: flex; justify-content: center;"}
+<img src="13.png" width="400"/>
+:::
+
+#### ................................................................. ........................................................... {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+
+##### Fun fact en mode ***"out of this world"*** ! Cette enquête nous réserve des surprises.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+
+##### **Le Score Alien et les Mains Extra-Terrestres **{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+
+##### Alors, ce graphique, c'est comme une invitation à la fête alien. Si vous êtes **ambidextre**, vous êtes en plein dedans, avec un "Score Alien" qui **décolle** (Score Alien corrélé avec les personnes qui sont ambidextres). Le mode "X-Files" est activé.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+
+##### Et si vous êtes **gaucher**, eh bien, vous êtes invités à cette fête cosmique aussi, car ça se voit sur le graphique. Vous avez une **petite liaison** avec les théories alien, même si ce n'est pas aussi fort que pour les ambidextres.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+
+##### Mais pour ceux qui sont droitiers, eh bien, c'est comme si l'ovni de la croyance alien les évitait. **Pas de grande corrélation ici**.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+
+##### Les amateurs de théories alien ont **plus tendance à être ambidextres ou gauchers**. C'est comme si avoir une main gauche ou être à l'aise avec les deux mains était un sésame pour la galaxie des théories alien.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"} ![](flying-saucer_1f6f8.png){width="47"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+## <b>Verdict & Bonus<b> {style="color : #c3c728; font-family : '13_misa'"}
+
+##### Nous y voilà, ami·e·s curieux et passionnés d'extraterrestres ! Vous avez été avec nous pour ce voyage **interstellaire** à travers les méandres des croyances en théories du complot **alien**, et il est temps de tirer le rideau sur notre enquête captivante. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### C'est le moment où l'on va révéler le **profil** de la personne typique encline à croire aux **conspirations extraterrestres**. Vous voulez en savoir plus sur cette personnalité **spatiale** ? **Vous êtes au bon endroit !** {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Mais ce n'est pas tout. En prime, on vous réserve une petite surprise : ***un test !*** Oui, vous, nos intrépides curieux, vous pourrez maintenant découvrir votre propre niveau de "croyance" en ces théories. Êtes-vous **un agent secret de la Zone 51** en devenir, ou préférez-vous garder **les deux pieds sur Terre ?** {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+### <b>ID Card<b> {style="color : #c3c728; font-family : 'SNEAKERS'"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+::: {style="display: flex; justify-content: center;"}
+<img src="14.png" width="400"/>
+:::
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### **Alien-O-Mania : Le Profil Cosmic** {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### Notre héroïne, c'est **Femme** ! Elle a un truc cosmique qui la relie aux extraterrestres. Les ovnis, c'est un peu son hymne national.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Elle est soit une adepte de la vie **rurale** au calme cosmique, soit une citadine en plein tourbillon de la ville. Les banlieues ? C'est comme si elles étaient dans une autre dimension pour elle.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Son parcours éducatif ? Plutôt minime. Elle est du genre à vouloir passer plus de temps à chercher plus d'informations à travers l'espace. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Dans la vie de tout les jours, elle se dit plutôt croyante ! (Et surtout elle croit en nos amis venus d'ailleurs){style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Elle se décrit comme **"désorganisée"** et **"négligente"**. Pour elle, tout peut arriver, et c'est excitant ! Les aliens, c'est comme la cerise sur le gâteau de l'inattendu.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### Et bien sûr, elle est **ambidextre** . Ses deux mains sont des antennes vers les étoiles. Pour elle, la galaxie n'a pas de secrets.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### Le profil **alien-o-mania**, c'est le mix parfait de féminité, d'éducation minime, de croyance, d'insouciance totale, de foi dans l'inconnu, et d'ambidextrie intergalactique. Notre profil serait prêt à embarquer dans un vaisseau spatial pour rencontrer nos amis extraterrestres.{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### **Surprise !** Découvrez la carte d'identitée du profil type qui a tendance à croire aux théories du complot sur les Aliens. {style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+::: {style="display: flex; justify-content: center;"}
+<img src="ID Card.png" width="400"/>
+:::
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+
+
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+### <b>Découvre ton Score Alien !<b> {style="color : #c3c728; font-family : 'SNEAKERS'"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+::: {style="display: flex; justify-content: center;"}
+<img src="A2.png" width="100"/>
+:::
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### Voici un petit test cosmique pour déterminer ton "Score Alien"  ! Répond aux questions suivantes avec un et attribut-toi 1 point par réponse positive. À la fin, additionne tes points et découvre la vérité...{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Avez-vous déjà observé un objet volant non identifié (OVNI) ?{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Croyez-vous en l'existence d'une vie extraterrestre intelligente ?{style="color : #c3c728; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Avez-vous déjà participé à une discussion sérieuse sur les théories du complot alien ?{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Pensez-vous que certaines agences gouvernementales cachent des preuves d'activités extraterrestres ?{style="color : #c3c728; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Avez-vous déjà rêvé de faire un voyage dans l'espace ?{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Suivez-vous régulièrement des émissions de télévision ou des podcasts sur le paranormal et les aliens ?{style="color : #c3c728; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Êtes-vous convaincu que certains phénomènes inexpliqués sont le résultat d'activités extraterrestres ?{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Avez-vous déjà lu des livres sur les rencontres extraterrestres ou les abductions par des aliens ?{style="color : #c3c728; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Êtes-vous persuadé que les pyramides d'Égypte (ou d'autres monuments anciens) ont été construites avec l'aide d'une technologie extraterrestre ?{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Croyez-vous que les crop circles sont des signes d'une communication alien avec la Terre ?{style="color : #c3c728; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Êtes-vous convaincu que des gouvernements cachent des extraterrestres dans des installations secrètes ?{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Avez-vous déjà eu une expérience que vous ne pouviez pas expliquer, et que vous attribuez à une rencontre extraterrestre ?{style="color : #c3c728; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Avez-vous déjà participé à des groupes en ligne ou à des forums dédiés aux théories du complot alien ?{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Êtes-vous persuadé que certaines célébrités sont en réalité des extraterrestres déguisés ?{style="color : #c3c728; font-family : Helvetica; text-align: justify"}
+
+##### ✢ Avez-vous déjà essayé de communiquer avec des extraterrestres, que ce soit par le biais de signaux lumineux, de méditations, ou de toute autre méthode ?{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+
+##### Plus ton score est élevé, plus tu as un penchant pour les théories du complot alien. Amuse-toi bien à découvrir ton côté extraterrestre !{style="color : #ffffff; font-family : Helvetica; text-align: justify"}
+
+#### ................................................................. ................................................................. {style="color : #000000; font-family : Helvetica; text-align: justify"}
+
+
+::: {style="display: flex; justify-content: center;"}
+<img src="A2.png" width="100"/>
+:::
+
+------------------------------------------------------------------------
+
+###### [*Source des données*]{.underline} *: [Open Psychometrics](https://openpsychometrics.org/tests/GCBS/)* {style="color : #c3c728; font-family : Computer says no"}
+
+###### [*Autrices*]{.underline} *: Inès AMDJAHED & Amina KIHAL --- Master 2 Données et Société* {style="color : #c3c728; font-family : Computer says no"}
+
+###### ![](Masters-InfoCom_DES_RVB.png){width="120"}

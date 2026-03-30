@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/1100564/ebaf6bcee1e14b3d81e60aa003594351
+bundleId: https://api.rpubs.com/api/v1/document/1100564/ebaf6bcee1e14b3d81e60aa003594351
+url: http://rpubs.com/AminaK/1100564
+when: 1697579528.9333
+lastSyncTime: 1697579528.93332

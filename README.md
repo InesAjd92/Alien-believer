@@ -1,4 +1,4 @@
-# Prédictions des profils croyants aux théories du complot
+# Prédiction des profils croyants aux théories du complot
 
 Analyse statistique avancée d'un dataset OpenPsychometrics sur les croyances aux théories du complot. Ce projet explore qui croit aux théories sur les extraterrestres et pourquoi, via ACP, ACM, clustering et Random Forest.
 

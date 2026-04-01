@@ -1,12 +1,13 @@
-# Profil des croyants aux théories du complot
+# Prédictions des profils croyants aux théories du complot
 
 Analyse statistique avancée d'un dataset OpenPsychometrics sur les croyances aux théories du complot. Ce projet explore qui croit aux théories sur les extraterrestres et pourquoi, via ACP, ACM, clustering et Random Forest.
 
 ## Contexte
 
-Projet réalisé en binôme avec Amina Kihal dans le cadre du cours Analyse de données avancée, M2 Information-Communication, Université Paris Nanterre.  
+Projet réalisé dans le cadre du cours Analyse de données avancée, M2 Information-Communication, Université Paris Nanterre.  
 
-Source des données : OpenPsychometrics — dataset "Conspiracy Beliefs Scale" (données collectées librement sur le web, format CSV).
+Source des données : OpenPsychometrics - dataset "Conspiracy Beliefs Scale" (données collectées librement sur le web, format CSV).
+Vous pouvez consulter les données sur [Kaggle](https://www.kaggle.com/datasets/lucasgreenwell/generic-conspiracist-beliefs-scale-responses), ou via le fichier csv présent dans /data.
 
 ## Dataset
 
